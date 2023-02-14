@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-### I am a beginner programmer
-### I am current learning HTML and CSS
-
 <!--
 **kurt-ds/kurt-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
