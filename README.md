@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on YelpCamp: a project in Colt Steele's Web Development Course
+🔭 I’m currently working on my own website Portfolio
 
 🌱 I’m currently learning ReactJS
 
