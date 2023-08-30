@@ -1,6 +1,6 @@
 # Hi, I'm Allen Kurt!
 
-I'm a self-taught Full-Stack Web Developer with a strong background in web development. I'm passionate about solving problems through code and building user-friendly applications. 
+I'm a self-taught Full-Stack Web Developer with a strong background in computer science. I'm passionate about solving problems through code and building user-friendly applications. 
 
 **My Skills:**
 - Frontend Development: HTML, CSS, JavaScript, React
