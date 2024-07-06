@@ -1,5 +1,5 @@
-<div align="center" style="width:max-width;">
-<img src="https://github.com/kurt-ds/kurt-ds/assets/116453726/7701c608-c146-4cde-865f-7548638ccacf" alt="pixel art gif" style="width:max-width;"/>
+<div align="center">
+<img src="https://github.com/kurt-ds/kurt-ds/assets/116453726/7701c608-c146-4cde-865f-7548638ccacf" alt="pixel art gif"/>
 </div>
 
 <!---
