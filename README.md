@@ -1,3 +1,5 @@
+<div style="width:100%;height:0;padding-bottom:53%;position:relative;"><iframe src="https://giphy.com/embed/pVGsAWjzvXcZW4ZBTE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/perfect-loops-pVGsAWjzvXcZW4ZBTE">via GIPHY</a></p>
+
 <h1 align="center">Hi 👋, I'm Allen Kurt</h1>
 <h3 align="center">Self-taught full-stack web developer studying BS Computer Science with specialization in Machine Learning at National University</h3>
 
