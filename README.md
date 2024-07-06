@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allen Kurt</h1>
-<h3 align="center">Self-taught full-stack web developer with two years of hands-on experience making full-functionality websites with a working back-end and database. I am also currently learning machine learning and data science</h3>
+<h3 align="center">Self-taught full-stack web developer studying BS Computer Science with specialization in Machine Learning at National University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurt-ds&label=Profile%20views&color=0e75b6&style=flat" alt="kurt-ds" /> </p>
 
