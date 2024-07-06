@@ -1,5 +1,6 @@
+<div align="center">
 ![eb50875a68b04b0480fa929af2c7547c](https://github.com/kurt-ds/kurt-ds/assets/116453726/7701c608-c146-4cde-865f-7548638ccacf)
-
+</div>
 
 <h1 align="center">Hi 👋, I'm Allen Kurt</h1>
 <h3 align="center">Self-taught full-stack web developer studying BS Computer Science with specialization in Machine Learning at National University</h3>
