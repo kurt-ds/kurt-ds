@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Hubspot CMS, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://kurt-ds.github.io](https://kurt-ds.github.io)
+- 👨‍💻 All of my projects are available at [https://kurt-ds.github.io](https://kurtds.netlify.app)
 
 - 📫 How to reach me **allenkurtds.dev@gmail.com**
 
