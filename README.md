@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurt-ds&label=Profile%20views&color=0e75b6&style=flat" alt="kurt-ds" /> </p>
 
 
-- 🌱 I’m currently learning **ReactJS, Hubspot CMS, Machine Learning**
+- 🌱 I’m currently learning **TypeScript, Hubspot CMS, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://kurt-ds.github.io](https://kurtds.netlify.app)
 
