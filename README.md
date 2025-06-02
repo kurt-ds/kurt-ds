@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Hubspot CMS, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [[https://kurt-ds.github.io](https://kurtds.netlify.app)](https://kurtds.netlify.app)
+- 👨‍💻 All of my projects are available at [[kurtds.netlify.app](https://kurtds.netlify.app)]
 
 - 📫 How to reach me **allenkurtds.dev@gmail.com**
 
